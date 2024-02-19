@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anubhavsharma/Desktop/code/MS_prep/interview",
+      "program": "/Users/anubhavsharma/Desktop/code/MS_prep/interview/build/Debug/outDebug"
+    }
+  ]
+}
